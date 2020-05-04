@@ -1,0 +1,22 @@
+{
+  "name": "sopekapi",
+  "version": "1.0.0",
+  "description": "API for SoPekocko",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olivier LIGNY",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.11",
+    "multer": "^1.4.2",
+    "randomstring": "^1.1.5",
+    "sharp": "^0.25.2"
+  }
+}
